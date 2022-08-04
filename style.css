@@ -129,3 +129,17 @@ body {
 .general__hobbies--item {
     font-size: 15px;
 }
+.download-cv {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--primary-text-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+}
